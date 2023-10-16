@@ -1,11 +1,8 @@
 package com.fetch.step_defs;
 
-import com.fetch.utilities.BrowserUtils;
+import com.fetch.pages.FetchPage;
 import com.fetch.utilities.Driver;
-import org.junit.Assert;
 import org.junit.Test;
-import org.openqa.selenium.Alert;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
